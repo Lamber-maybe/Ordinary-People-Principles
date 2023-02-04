@@ -10,12 +10,12 @@
 * [2月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2)
 
 ## 当前参与人员
-花 -- 社畜
+花 -- :clown_face::hot_face::clown_face:
 
-羊 -- 社畜
+羊 -- :dart:
 
-蛙 -- 社畜
+蛙 -- :punch::punch::punch::punch::punch::punch::punch::punch:
 
-momo -- 社畜
+momo -- :middle_finger:
 
 QingWan -- 学生
