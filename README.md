@@ -8,6 +8,7 @@
 ## 2023年
 * [1月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/1)
 * [2月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2)
+* [3月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/3)
 
 ## 当前参与人员
 花 -- :clown_face::hot_face::clown_face:
