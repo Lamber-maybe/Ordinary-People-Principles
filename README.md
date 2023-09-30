@@ -6,15 +6,15 @@
 此项目记录每周对自己触动最深的一些事情或者道理
 
 ## 2023年
-* [1月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/1)
-* [2月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2)
-* [3月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/3)
-* [4月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/4)
-* [5月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/5)
-* [6月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/6)
-* [7月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/7)
-* [8月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/8)
-
+* [1月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-01.md)
+* [2月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-02.md)
+* [3月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-03.md)
+* [4月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-04.md)
+* [5月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-05.md)
+* [6月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-06.md)
+* [7月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-07.md)
+* [8月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-08.md)
+* [9月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-09.md)
 
 ## 当前参与人员
 花 -- :clown_face::hot_face::clown_face:
