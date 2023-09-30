@@ -17,16 +17,11 @@
 * [9月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-09.md)
 
 ## 当前参与人员
-花 -- :clown_face::hot_face::clown_face:
-
-羊 -- :dart:
-
-蛙 -- :punch::punch::punch::punch::punch::punch::punch::punch:
-
-momo -- :middle_finger:
-
-QingWan -- 学生
-
-木少 -- :clown_face:
-
-见酱 -- ☕☕☕☕☕☕☕☕☕
+* 花 -- :clown_face::hot_face::clown_face:
+* 羊 -- :dart:
+* 蛙 -- :punch::punch::punch::punch::punch::punch::punch::punch:
+* momo -- :middle_finger:
+* QingWan -- 学生
+* 木少 -- :clown_face:
+* 见酱 -- ☕☕☕☕☕☕☕☕☕
+* 大翁
