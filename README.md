@@ -15,6 +15,7 @@
 * [7月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-07.md)
 * [8月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-08.md)
 * [9月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-09.md)
+* [10月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-10.md)
 
 ## 当前参与人员
 * 花 -- :clown_face::hot_face::clown_face:
@@ -24,4 +25,4 @@
 * QingWan -- 学生
 * 木少 -- :clown_face:
 * 见酱 -- ☕☕☕☕☕☕☕☕☕
-* 大翁
+* 大翁 -
