@@ -16,6 +16,7 @@
 * [8月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-08.md)
 * [9月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-09.md)
 * [10月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-10.md)
+* [11月感悟](https://github.com/Lamber-maybe/Ordinary-People-Principles/tree/main/2023/2023-11.md)
 
 ## 当前参与人员
 * 花 -- 🤡🥵🤡
